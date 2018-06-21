@@ -3,7 +3,7 @@ variable "nsg" {
     resource_group_name = ""
 
     name     = ""
-    location = ""
+    location = "japaneast"
   }
 }
 
